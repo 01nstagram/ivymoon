@@ -57,7 +57,7 @@ const Home = () => {
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-botBlue to-botBlue-dark">
                 All-In-One
               </span>{" "}
-              Discord Bot
+              ivymoon
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-8">
               A powerful, feature-rich bot designed to enhance your Discord server with moderation tools, utilities, games, logging, and more.
@@ -90,7 +90,7 @@ const Home = () => {
                   <div className="w-3 h-3 rounded-full bg-green-500" />
                 </div>
                 <div className="flex-1 text-center text-white text-sm font-medium">
-                  Discord Bot - All In One
+                  ivymoon - All In One
                 </div>
               </div>
               <div className="p-4 bg-gray-800 text-white">
@@ -217,7 +217,7 @@ const Home = () => {
           <div className="max-w-3xl mx-auto glass-card rounded-2xl p-8 md:p-12 text-center animate-on-scroll opacity-0">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to transform your server?</h2>
             <p className="text-lg text-muted-foreground mb-6">
-              Invite Discord Bot - All In One to your server today and unlock all premium features for free.
+              Invite ivymoon - All In One to your server today and unlock all premium features for free.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
