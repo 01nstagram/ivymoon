@@ -15,7 +15,7 @@ const SetupGuide = () => {
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
               Get Started with
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-botBlue to-botBlue-dark ml-2">
-                Discord Bot
+                ivymoon
               </span>
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
@@ -107,7 +107,7 @@ const SetupGuide = () => {
                         Review the permissions that the bot requires to function properly and click "Authorize" to continue.
                       </p>
                       <div className="glass-card rounded-lg p-4 bg-gray-800 text-white">
-                        <p className="text-center mb-2">Discord Bot - All In One would like permission to:</p>
+                        <p className="text-center mb-2">ivymoon - All In One would like permission to:</p>
                         <ul className="space-y-2 mb-4">
                           <li className="flex items-center">
                             <Check className="mr-2 h-4 w-4 text-green-400" /> 
@@ -159,7 +159,7 @@ const SetupGuide = () => {
                             <span>Highest</span>
                           </div>
                           <div className="flex justify-between p-2 bg-botBlue/80 text-white rounded">
-                            <span>Discord Bot - All In One</span>
+                            <span>ivymoon - All In One</span>
                             <span>↑ This should be high in the list</span>
                           </div>
                           <div className="flex justify-between p-2 bg-gray-700 text-white rounded">
