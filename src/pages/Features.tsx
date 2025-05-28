@@ -100,7 +100,7 @@ const Features = () => {
               </span>
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
-              Discord Bot - All In One combines everything you need to create the perfect Discord community in one easy-to-use bot.
+              ivymoon - All In One combines everything you need to create the perfect Discord community in one easy-to-use bot.
             </p>
           </div>
         </div>
